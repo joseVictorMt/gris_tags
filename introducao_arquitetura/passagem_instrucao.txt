@@ -1,0 +1,4 @@
+1 Mem -> RD
+2 RD -> BD; BD -> R3_H; Mem -> RD;
+3 RD -> BD; BD -> T1
+4 T1 -> ULA; Opcode = 0b1110; ULA -> BD; BD -> R3_L

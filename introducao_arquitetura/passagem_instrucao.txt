@@ -1,4 +1,17 @@
+Aluno: José Victor Medeiros Thomé da Silva
+
+# Legenda:
+## Mem -> Memória
+## RD -> Registrador de dados
+## BD -> Barramento de dados
+## R3_H -> Registrador R3_High
+## R3_L -> Registrador R3_Low
+## T1 -> Registrador T1
+## ULA -> Unidade Lógica Aritmética
+## Opcode -> Operação executada na ULA 
+
+#Passo-a-passo do dado inserido em R3:
 1 Mem -> RD
-2 RD -> BD; BD -> R3_H; Mem -> RD;
+2 RD -> BD; BD -> R3_H; Mem -> RD
 3 RD -> BD; BD -> T1
 4 T1 -> ULA; Opcode = 0b1110; ULA -> BD; BD -> R3_L

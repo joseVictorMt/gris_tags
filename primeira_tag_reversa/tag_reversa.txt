@@ -1,0 +1,15 @@
+Aluno: José Victor Medeiros Thomé da Silva
+Tag de engenharia reversa
+
+- Pergunta 1:
+    Pergunta feita: "1) Quem é mais rápido, ram ou cache?"
+    Entrada correta: "cache,obvio"
+
+- Pergunta 2:
+    Pergunta feita: "2) O que o rip faz?"
+    Entrada correta: 'a', "aa" ou qualquer outra string que 'a' apareça
+    como primeiro ou segundo caractere.
+
+- Pergunta 3:
+    Pergunta feita: "3) Em qual número eu estou pensando?"
+    Entrada correta: 7471769133
